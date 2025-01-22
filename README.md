@@ -58,9 +58,9 @@ Here are some of my notable projects:
 Feel free to reach out and connect with me on my social media platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kautsar_Hafidz-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kautsar-hafidz)
-[![TikTok](https://img.shields.io/badge/TikTok-@hafidtech-black?style=flat&logo=tiktok)](https://tiktok.com/@hafidtech)
-[![Instagram](https://img.shields.io/badge/Instagram-@hafidtech-E4405F?style=flat&logo=instagram)](https://instagram.com/hafidtech)
-[![YouTube](https://img.shields.io/badge/YouTube-HafidTech-FF0000?style=flat&logo=youtube)](https://youtube.com/@hafidtech)
+[![TikTok](https://img.shields.io/badge/TikTok-@hafidtech-black?style=flat&logo=tiktok)](https://www.tiktok.com/@hafidtech.id)
+[![Instagram](https://img.shields.io/badge/Instagram-@hafidtech-E4405F?style=flat&logo=instagram)](https://instagram.com/hafidtech.id)
+[![YouTube](https://img.shields.io/badge/YouTube-HafidTech-FF0000?style=flat&logo=youtube)](https://youtube.com/@hafidtech-id)
 
 ---
 
